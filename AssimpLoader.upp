@@ -1,0 +1,11 @@
+description "\377198,42,150";
+
+uses
+	plugin/assimp,
+	plugin/assimp,
+	UFEngine/plugin/OpenGLRenderer;
+
+file
+	AssimpLoader.h,
+	README.md;
+
